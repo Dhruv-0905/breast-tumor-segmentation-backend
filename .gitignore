@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.nii.gz
+*.gz
+*.dcm
+*.log
+*.tmp
+.env
+.vscode/
+.idea/
+data/raw/*
+data/processed/*
+data/outputs/*
+data/results/*
